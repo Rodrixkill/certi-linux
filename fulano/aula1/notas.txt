@@ -1,0 +1,20 @@
+Comando CP
+Este comando sirve para copiar archivos utilizando el comando [origen+
+nombre del archivo] [destino]
+
+Comando RM
+Este comando sirve para eliminar archivos
+
+Comando MV
+Este comando sirve para mover archivos [origen] [destino]
+
+Comando MKDIR
+Este comando sire para crear un fichero
+
+Comando RMDIR
+Este comando sirve para eliminar un fichero
+
+Comando TOUCH
+Este comando sirve para cambiar la fecha creacion de un archivo o crearlo
+
+
