@@ -1,0 +1,4 @@
+2.- ls -R lista todos los archivos y ficheros y todo el contenido de los subficheros, recursivamente
+    ls -S lista todos los archivos y ficheros por su tamanho empezando por el mas pesado
+    ls -X lista todos los archivos y ficheros por su extension
+

@@ -1,0 +1,12 @@
+1.-
+A) ls: listado de los archivos y ficheros.
+   ls -m: listado de los archivos y ficheros separados por comas
+   ls -l: listado de los archivos y ficheros en formato long (incluye fecha, permiso tamanho)
+   ls -l -v: listado de los archivos y ficheros en formato long, y ordena los archivos de forma natural por su version (numero)
+
+C) ls ai[1-5].c: lista todos los archivos y ficheros que comienzen con ai seguidos por cualquier numero del 1 al 5 con la extension .c
+   ls [a-c]ii1.c: lista todos los archivos y ficheros que comienzan con cualquier letra entre a-c seguido por ii1.c
+
+E) echo ai[1-5].c: imprime "ai" un numero del "1 al 5" seguido por ".c"
+   ls [a-c]ii1.c: listado de los archivos, ficheros que comienzan por una letra entre a-c seguido por "ii1.c"
+
