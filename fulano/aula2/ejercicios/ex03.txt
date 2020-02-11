@@ -1,2 +1,3 @@
 3.- cp -u: solo copia cuando el archivo a copiar es una nueva version que el archivo de destino con el mismo nombre.
     mkdir -m: crea el archivo con los permisos ya designados, no se usa rwx sino la nomenclatura UMASK
+    rm --dir: borra directorios vacios
