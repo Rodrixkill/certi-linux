@@ -1,0 +1,21 @@
+1)ls > archivo.txt
+
+
+2)sort < archivo.txt
+Andrea
+Camilo
+Correas Locas
+Jorgito
+Kevin
+Martin
+Michael
+Miles
+Samu
+Sergio
+Viviana
+Viviana
+
+
+3)sort < archivo.txt >> resultado.txt
+
+
