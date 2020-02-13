@@ -1,0 +1,15 @@
+1) ps -fu rodrigo
+2) ps -ef
+3)firefox &    
+PID es[3022] 
+4)kill 3022
+5)gedit    ctrl +z  
+=>  [1]+ Stopped gedit
+bg 1 
+=> [1]+ Running gedit
+6)fg 1
+gedit 
+7)top M    
+=>  proceso [2710] gnome-shell
+8)man top
+9)top k 3260

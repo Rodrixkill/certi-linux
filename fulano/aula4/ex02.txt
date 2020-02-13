@@ -1,0 +1,7 @@
+chmod +x forever.sh
+./forever.sh
+ctrl+z => [2]
+bg 2
+ps [3202]
+kill 3202
+nohup forever.sh > resultado.txt 2 > salida.err &
