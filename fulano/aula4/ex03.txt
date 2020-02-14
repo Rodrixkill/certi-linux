@@ -1,0 +1,36 @@
+1) hostname= rodrigo-virtual-machine whoami= rodrigo
+
+2) vie feb 14 07:53:21 -04 2020
+
+3) which cp
+/bin/cp
+
+4)
+	1 cd ~
+	  find .
+
+	2 find ./linux -maxdepth 6 -name *.so
+
+	3 find ./linux -name 'saida*' ! -name '*.err'
+
+	4 find ./linux -name ex01*
+
+	5 find ~ -type f -name ".*"
+
+	6 find ./linux -type f -perm 0755
+
+	7 find . -user rodrigo
+
+	8 find /var/www –group rodrigo
+
+	9 find / -atime 1 -name "*.txt"
+
+	10 find / -size 100b
+
+5) find ./linux/certi-linux/ -name "*.txt"
+
+6) find ./linux/certi-linux/ -name "*.so" -exec rm {} \;
+
+
+
+
